@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Muhammad Fahim</h1>
-<h3 align="center">Im a year 2 UTM student for Software Engineering</h3>
+<h3 align="center">Im a year 3 UTM student for Software Engineering</h3>
 
 - 📫 How to reach me **fahim03@graduate.utm.my**
 
