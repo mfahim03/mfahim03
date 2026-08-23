@@ -8,7 +8,7 @@ I'm a Software Engineering student with experience in full-stack web development
 
 💼 Former Full Stack Developer Intern at ALPS Electric (Malaysia) Sdn Bhd, where I developed and enhanced enterprise web applications and internal management systems.
 
-🌱 Currently learning **Full Stack Java with AI**, Spring Boot, React, and AI Integration.
+🌱 Currently taking **Full Stack Java with AI** certificate, Spring Boot, React, and AI Integration.
 
 ---
 
