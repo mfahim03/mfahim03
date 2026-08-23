@@ -1,14 +1,58 @@
-### Hi there 👋
+# Hi 👋, I'm Muhammad Fahim
 
-<h1 align="center">Hi 👋, I'm Muhammad Fahim</h1>
-<h3 align="center">Im a year 3 UTM student for Software Engineering</h3>
+### Software Engineering Undergraduate @ Universiti Teknologi Malaysia (UTM)
 
-- 📫 How to reach me **fahim03@graduate.utm.my**
+I'm a Software Engineering student with experience in full-stack web development, mobile application development, and database management. I enjoy building practical software solutions and continuously learning new technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🎓 Bachelor of Computer Science (Software Engineering) with Honours, UTM (Expected Oct 2026)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+💼 Former Full Stack Developer Intern at ALPS Electric (Malaysia) Sdn Bhd, where I developed and enhanced enterprise web applications and internal management systems.
 
+---
+
+## 🚀 Tech Stack
+
+### Languages
+Java • JavaScript • Python • PHP • Dart • C++
+
+### Frontend
+HTML5 • CSS3 • React • Vue.js
+
+### Backend
+Spring Boot • Node.js • REST APIs
+
+### Mobile
+Flutter • Android Studio
+
+### Database
+MySQL • Firebase Firestore • Microsoft SQL Server • MongoDB
+
+### Tools
+Git • GitHub • VS Code • Figma • Enterprise Architect • Jira • Tableau
+
+---
+
+## 📌 Featured Projects
+
+### 📱 UTMSports+
+Mobile application for sports facility booking and event management.
+- Flutter & Firebase
+- MVVM Architecture
+- MapBox Integration
+- Event Management & Facility Booking
+
+### 💼 HR Management System
+Enterprise web application for managing 500+ foreign worker records, passport tracking, and permit monitoring.
+
+### 🚪 Door Access Management System
+Employee access monitoring system to improve workplace security.
+
+### 🌐 TVPSS Management System
+Spring Boot-based platform for managing student-submitted videos and innovation projects.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/muhammadfahim03
+- Email: fahim03@graduate.utm.my
