@@ -4,7 +4,7 @@
 
 I'm a Software Engineering student with experience in full-stack web development, mobile application development, and database management. I enjoy building practical software solutions and continuously learning new technologies.
 
-🎓 Bachelor of Computer Science (Software Engineering) with Honours, UTM (Expected Oct 2026)
+🎓 Bachelor of Computer Science (Software Engineering) with Honours, UTM
 
 💼 Former Full Stack Developer Intern at ALPS Electric (Malaysia) Sdn Bhd, where I developed and enhanced enterprise web applications and internal management systems.
 
