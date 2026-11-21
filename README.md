@@ -1,14 +1,12 @@
 # Hi 👋, I'm Muhammad Fahim
 
-### 💻 Software Engineering Undergraduate @ Universiti Teknologi Malaysia (UTM)
+### 💻 Software Engineering Graduate @ Universiti Teknologi Malaysia (UTM)
 
 I'm a Software Engineering student with experience in full-stack web development, mobile application development, and database management. I enjoy building practical software solutions and continuously learning new technologies.
 
 🎓 Bachelor of Computer Science (Software Engineering) with Honours, UTM (Expected Oct 2026)
 
 💼 Former Full Stack Developer Intern at ALPS Electric (Malaysia) Sdn Bhd, where I developed and enhanced enterprise web applications and internal management systems.
-
-🌱 Currently taking **Full Stack Java with AI** certificate, Spring Boot, React, and AI Integration.
 
 ---
 
